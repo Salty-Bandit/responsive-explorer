@@ -54,3 +54,31 @@
     width: 500px;
     height: 500px;
 }
+.TopDisplayText {
+    color:ghostwhite
+}
+.carousel-fixed {
+    width: 100%;
+    max-width: 350px; /* or whatever width you prefer */
+    height: 350px;    /* fixed height */
+    margin: 0 auto;   /* center it */
+    overflow: hidden;
+}
+.filterColors {
+    color:ghostwhite
+}
+.item2 {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+.hidden {
+    display: none;
+}
+/* Optional, should change images in carousel to have a border
+.item {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #ccc;
+}
+*/
