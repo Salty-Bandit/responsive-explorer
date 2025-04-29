@@ -82,3 +82,7 @@
     border: 1px solid #ccc;
 }
 */
+/*goofy font */
+.custom-font {
+    font-family: 'Roboto Mono', monospace;
+  }
